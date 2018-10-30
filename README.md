@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+### A simple ToDo list using `useState()` react hooks
 ###### First install dependencies:
 In the project directory run:
 #### `npm i`
